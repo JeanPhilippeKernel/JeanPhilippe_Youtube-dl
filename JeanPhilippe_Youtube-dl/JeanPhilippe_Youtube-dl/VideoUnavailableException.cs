@@ -1,7 +1,9 @@
 ﻿using System;
+using System.Diagnostics;
 
 namespace JeanPhilippe_Youtube_dl
 {
+    [DebuggerStepThrough]
     public class VideoUnavailableException : Exception
     {
         public VideoUnavailableException()

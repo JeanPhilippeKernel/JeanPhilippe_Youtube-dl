@@ -5,9 +5,12 @@ using System.Net;
 using System.Text.RegularExpressions;
 using Newtonsoft.Json.Linq;
 using System.Threading.Tasks;
+using System.Diagnostics;
+
 
 namespace JeanPhilippe_Youtube_dl
 {
+    [DebuggerStepThrough]
     public static class DownloadableLink
     {
         private const string BypassFlag = "ratebypass";
@@ -39,7 +42,6 @@ namespace JeanPhilippe_Youtube_dl
                 videoModel.RequiresDecryption = false;
             }
         }
-
         public async static Task<IEnumerable<VideoModels>> ObtainLinks(string videoUrl, bool decrypt = true)
         {
             if (videoUrl == null)
@@ -89,7 +91,7 @@ namespace JeanPhilippe_Youtube_dl
 
             return null;
         }
-
+        
         private static bool NormalizeYoutubeUrl(string url, out string normalizedUrl)
         {
             url = url.Trim();
@@ -120,6 +122,7 @@ namespace JeanPhilippe_Youtube_dl
             return true;
         }
 
+        
         private static IEnumerable<Information> ExtractDownloadableUrls(JObject json)
         {
             string[] splitByUrls = GetStreamMap(json).Split(',');
@@ -161,6 +164,7 @@ namespace JeanPhilippe_Youtube_dl
             }
         }
 
+       
         private static string GetAdaptiveStreamMap(JObject json)
         {
             JToken streamMap = json["args"]["adaptive_fmts"];
@@ -168,6 +172,7 @@ namespace JeanPhilippe_Youtube_dl
             return streamMap.ToString();
         }
 
+       
         private async static Task<string> GetDecipheredSignature(string htmlPlayerVersion, string signature)
         {
             if (signature.Length == CorrectSignatureLength)
@@ -178,6 +183,7 @@ namespace JeanPhilippe_Youtube_dl
             return await Decriptor.DecriptorVersion(signature, htmlPlayerVersion);
         }
 
+       
         private static string GetHtml5PlayerVersion(JObject json)
         {
             var regex = new Regex(@"html5player-(.+?)\.js");
@@ -187,6 +193,7 @@ namespace JeanPhilippe_Youtube_dl
             return regex.Match(js).Result("$1");
         }
 
+        
         private static string GetStreamMap(JObject json)
         {
             JToken streamMap = json["args"]["url_encoded_fmt_stream_map"];
@@ -201,6 +208,7 @@ namespace JeanPhilippe_Youtube_dl
             return streamMapString;
         }
 
+        
         private static List<VideoModels> GetVideoModels(List<Information> extractionInfos, string videoTitle)
         {
             var downLoadInfos = new List<VideoModels>();
@@ -237,6 +245,7 @@ namespace JeanPhilippe_Youtube_dl
             return downLoadInfos;
         }
 
+        
         private static string GetVideoTitle(JObject json)
         {
             JToken title = json["args"]["title"];
@@ -272,6 +281,7 @@ namespace JeanPhilippe_Youtube_dl
             throw new YoutubeException("Couldn't analyse the Youtube page for URL " + videoUrl + "\n", innerException);
         }
 
+        [DebuggerStepThrough]
         private class Information
         {
             public bool RequiresDecryption { get; set; }

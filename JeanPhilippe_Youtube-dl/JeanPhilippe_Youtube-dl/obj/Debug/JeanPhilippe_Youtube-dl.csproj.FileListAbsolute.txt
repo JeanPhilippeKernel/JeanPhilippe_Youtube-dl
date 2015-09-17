@@ -84,3 +84,5 @@ C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhili
 C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\qualifiers.txt
 C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\qualifiers.txt.intermediate
 C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\JeanPhilippe_Youtube-dl.dll
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\JeanPhilippe_Youtube-dl.pdb

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -7,6 +8,7 @@ using System.Threading.Tasks;
 namespace JeanPhilippe_Youtube_dl
 
 {
+    [DebuggerStepThrough]
     internal static class Decriptor
     {
         public async static Task<string> DecriptorVersion(string cipher, string Version)

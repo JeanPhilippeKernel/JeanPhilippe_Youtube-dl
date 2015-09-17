@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Net;
 using System.Text;
@@ -8,8 +9,9 @@ using System.Threading.Tasks;
 
 namespace JeanPhilippe_Youtube_dl
 {
+    [DebuggerStepThrough]
     internal static class HttpRequestHelper
-    {
+    {                  
         public async static Task<string> DownloadPageSource(string url)
         {
             return await ProcessDownload.GetDownloadableUrl(url);                    
