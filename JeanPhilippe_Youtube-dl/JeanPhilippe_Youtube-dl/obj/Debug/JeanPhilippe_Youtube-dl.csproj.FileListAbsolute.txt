@@ -1,0 +1,86 @@
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\JeanPhilippe_Youtube-dl.dll.config
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\JeanPhilippe_Youtube-dl.dll
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\JeanPhilippe_Youtube-dl.pdb
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\JeanPhilippe_Youtube-dl.pri
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.Auth.dll
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.Core.dll
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.dll
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.YouTube.v3.dll
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Microsoft.Threading.Tasks.dll
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Newtonsoft.Json.dll
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Zlib.Portable.dll
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.pdb
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.xml
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.Auth.pdb
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.Auth.xml
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.Core.pdb
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.Core.xml
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.YouTube.v3.pdb
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.YouTube.v3.xml
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Microsoft.Threading.Tasks.xml
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Newtonsoft.Json.xml
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Zlib.Portable.xml
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\JeanPhilippe_Youtube-dl.csproj.App.config
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\JeanPhilippe_Youtube-dl.csprojResolveAssemblyReference.cache
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\JeanPhilippe_Youtube-dl.dll
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\JeanPhilippe_Youtube-dl.pdb
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\priconfig.xml
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\priconfig.xml.intermediate
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\layout.resfiles
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\layout.resfiles.intermediate
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\resources.resfiles
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\resources.resfiles.intermediate
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\pri.resfiles
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\pri.resfiles.intermediate
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\qualifiers.txt
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\qualifiers.txt.intermediate
+c:\users\jean philippe\documents\visual studio 2013\Projects\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\JeanPhilippe_Youtube-dl.dll.config
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\JeanPhilippe_Youtube-dl.dll
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\JeanPhilippe_Youtube-dl.pdb
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\JeanPhilippe_Youtube-dl.pri
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.Core.dll
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.dll
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Zlib.Portable.dll
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.pdb
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.xml
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.Core.xml
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\bin\Debug\Zlib.Portable.xml
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\JeanPhilippe_Youtube-dl.csproj.App.config
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\JeanPhilippe_Youtube-dl.csprojResolveAssemblyReference.cache
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\JeanPhilippe_Youtube-dl.dll
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\JeanPhilippe_Youtube-dl.pdb
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\priconfig.xml
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\priconfig.xml.intermediate
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\layout.resfiles
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\layout.resfiles.intermediate
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\resources.resfiles
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\resources.resfiles.intermediate
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\pri.resfiles
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\pri.resfiles.intermediate
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\qualifiers.txt
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Jean Philippe\Documents\GitHubVisualStudio\JeanPhilippe_Yt-dl\JeanPhilippe_Youtube-dl\JeanPhilippe_Youtube-dl\obj\Debug\MultipleQualifiersPerDimensionFound.txt
