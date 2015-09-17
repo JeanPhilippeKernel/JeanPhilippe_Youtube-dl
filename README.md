@@ -42,10 +42,10 @@ string ApiKey = " your Youtube Apikey here";
 string ApplicationName = "Name of your application";
 
 //This function will return the video file when it'll finish to download it
-private async Task<StorageFile> Video_Downloading(string videoUrl, string fileName)
+private async Task<StorageFile> Video_Downloading(string Url, string fileName)
 {
   ProcessDownload process = new ProcessDownload(ApiKey, ApplicationName);
-  var LinkList = await DownloadableLink.ObtainLinks(VideoUrl);
+  var LinksList = await DownloadableLink.ObtainLinks(Url);
   VideoModels video = LinkList.First(s => s.Resolution == 360 && s.VideoQuality == VideoQuality.Mp4);
 
   StorageFile file = await ApplicationData.Current.LocalFolder.CreateFileAsync(fileName,
