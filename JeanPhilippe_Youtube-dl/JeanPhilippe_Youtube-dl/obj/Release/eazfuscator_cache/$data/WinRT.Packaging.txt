@@ -3,4 +3,4 @@ Format = 1
 
 [Validation]
 FilePath = ..\..\..\..\bin\Release\JeanPhilippe_Youtube-dl.dll
-Checksum = /CwccA2xbLNfpu3vEnXoDu28LyA=
+Checksum = /X1knVbSfs2SJDrG1d8tzI8m3UU=
