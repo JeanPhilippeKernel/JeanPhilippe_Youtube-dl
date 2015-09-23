@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 namespace JeanPhilippe_Youtube_dl
 
 {
-    [DebuggerStepThrough]
     internal static class Decriptor
     {
         public async static Task<string> DecriptorVersion(string cipher, string Version)

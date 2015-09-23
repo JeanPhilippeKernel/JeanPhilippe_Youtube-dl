@@ -3,7 +3,6 @@ using System.Diagnostics;
 
 namespace JeanPhilippe_Youtube_dl
 {
-    [DebuggerStepThrough]
     public class VideoModels
     {
         internal static IEnumerable<VideoModels> Defaults = new List<VideoModels>

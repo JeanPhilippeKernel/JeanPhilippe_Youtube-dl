@@ -20,7 +20,6 @@ using Google.Apis.YouTube.v3.Data;
 
 namespace JeanPhilippe_Youtube_dl 
 {
-    [DebuggerStepThrough]
     public  class ProcessDownload
     {
         private YouTubeService youtubeService { get; set; }

@@ -9,7 +9,6 @@ using System.Threading.Tasks;
 
 namespace JeanPhilippe_Youtube_dl
 {
-    [DebuggerStepThrough]
     internal static class HttpRequestHelper
     {                  
         public async static Task<string> DownloadPageSource(string url)

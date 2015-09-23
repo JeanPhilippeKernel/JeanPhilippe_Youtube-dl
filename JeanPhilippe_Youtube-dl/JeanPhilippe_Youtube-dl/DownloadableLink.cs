@@ -10,7 +10,6 @@ using System.Diagnostics;
 
 namespace JeanPhilippe_Youtube_dl
 {
-    [DebuggerStepThrough]
     public static class DownloadableLink
     {
         private const string BypassFlag = "ratebypass";
@@ -280,8 +279,6 @@ namespace JeanPhilippe_Youtube_dl
         {
             throw new YoutubeException("Couldn't analyse the Youtube page for URL " + videoUrl + "\n", innerException);
         }
-
-        [DebuggerStepThrough]
         private class Information
         {
             public bool RequiresDecryption { get; set; }
